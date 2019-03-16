@@ -1,1 +1,1 @@
-#The answer of the book #Code Interviews#.
+Solutions of Code Interviews
